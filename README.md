@@ -1,5 +1,5 @@
 # Kangkan_137
-<h1 align="center">Hello👋, I'm Kangkan Kalita</h1>
+<h1 align="center">Hola👋, I'm Kangkan Kalita</h1>
 <h3 align="center">🌌 A&A | 💻 Coding Enthusiast | 🧠 Mathematics | 🚀 Quantum Computing Explorer | 🔭 Exploring the cosmos through the lens of physics. 💡 Combining coding and mathematics to untangle complex problems. 🌐 Actively diving into the realms of quantum computing, seeking to merge theory with practical applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rio-31&label=Profile%20views&color=0e75b6&style=flat" alt="rio-31" /> </p>
@@ -20,6 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/kangkan02134660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kangkan02134660" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kangkan-k-a3363322b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kangkan-k-a3363322b" height="30" width="40" /></a>
+<a href="https://fb.com/kangkan.kalita.5473894" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kangkan.kalita.5473894" height="30" width="40" /></a>
 <a href="https://instagram.com/lunatic_river_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lunatic_river_" height="30" width="40" /></a>
 <a href="https://medium.com/@kangkankalita_137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kangkankalita_137" height="30" width="40" /></a>
 <a href="https://discord.gg/john_666_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="john_666_" height="30" width="40" /></a>

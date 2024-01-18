@@ -1,9 +1,6 @@
 # Kangkan_137
-[![MasterHead](https://images.app.goo.gl/9ujrSmXJm39XykCq9) 
 <h1 align="center">Hola👋, I'm Kangkan Kalita</h1>
 <h3 align="center">🌌 A&A | 💻 Coding Enthusiast | 🧠 Mathematics | 🚀 Quantum Computing Explorer | 🔭 Exploring the cosmos through the lens of physics. 💡 Combining coding and mathematics to untangle complex problems. 🌐 Actively diving into the realms of quantum computing, seeking to merge theory with practical applications.</h3>
-
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/ZL4V5HScM1WBCLxp9">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rio-31&label=Profile%20views&color=0e75b6&style=flat" alt="rio-31" /> </p>
 
